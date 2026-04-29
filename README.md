@@ -112,7 +112,7 @@ flutter run
 ---
 
 ## 📋 Critères du TP couverts
-
+ 
 | Critère | Statut |
 |---------|--------|
 | Écran Discussions | ✅ |
